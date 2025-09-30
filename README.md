@@ -23,6 +23,8 @@
 - https://github.com/doyup123/ADAS-Motion-Planning-and-Control
 
   - Designed an AUTOSAR-based UDS bootloader for OTA reprogramming, with file encryption/decryption and hash-based integrity verification.
+ 
+---------
 
 ### 📫 How to reach me
 - kireireimu74@gmail.com
