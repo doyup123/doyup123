@@ -12,17 +12,17 @@
 
 ### 💻 Projects 
 
-https://github.com/doyup123/IVS_BlackBoxTesting
+- https://github.com/doyup123/IVS_BlackBoxTesting
 
-- BlackBox testing in SILS: requirement analysis, CAN database design, CAPL automation, and UI/manual testing in CANoe
+  - BlackBox testing in SILS: requirement analysis, CAN database design, CAPL automation, and UI/manual testing in CANoe
 
-https://github.com/doyup123/BootLoaderForOTA
+- https://github.com/doyup123/BootLoaderForOTA
 
-- Designed Simulink-based Global, Local, and Trajectory path planning logic, and implemented PID & Pure Pursuit controllers for lateral/longitudinal control.
+  - Designed Simulink-based Global, Local, and Trajectory path planning logic, and implemented PID & Pure Pursuit controllers for lateral/longitudinal control.
 
-https://github.com/doyup123/ADAS-Motion-Planning-and-Control
+- https://github.com/doyup123/ADAS-Motion-Planning-and-Control
 
-- Designed an AUTOSAR-based UDS bootloader for OTA reprogramming, with file encryption/decryption and hash-based integrity verification.
+  - Designed an AUTOSAR-based UDS bootloader for OTA reprogramming, with file encryption/decryption and hash-based integrity verification.
 
 ### 📫 How to reach me
 - kireireimu74@gmail.com
