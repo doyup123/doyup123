@@ -9,8 +9,6 @@
 🎓️I earned my B.S. in Electronic Engineering from the Tech University of Korea.
 
 -----
-### 📫 How to reach me
-kireireimu74@gmail.com
 
 ### 💻 Projects 
 
@@ -25,3 +23,6 @@ https://github.com/doyup123/BootLoaderForOTA
 https://github.com/doyup123/ADAS-Motion-Planning-and-Control
 
 - Designed an AUTOSAR-based UDS bootloader for OTA reprogramming, with file encryption/decryption and hash-based integrity verification.
+
+### 📫 How to reach me
+- kireireimu74@gmail.com
